@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(172, 124, 20);
+}
+.alto {
+    color: red;
+    font-weight: bold;
+}
+
+.medio {
+    color: orange;
+    font-weight: bold;
+}
+
+.baixo {
+    color: green;
+    font-weight: bold;
+}
+.select-wrapper input.select-dropdown {
+    color: white;
+}
+.dropdown-content li > span {
+    color: white;
+}
+.select-wrapper input.select-dropdown {
+    border-bottom: 1px solid white;
+}
